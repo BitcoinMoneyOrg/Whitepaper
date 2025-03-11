@@ -1,1 +1,1 @@
-Bitcoin Money is an open source peer-to-peer cryptocurrency, which is a digital asset as a store of value.
+Bitcoin Money (BCM) is designed to provide similar functionality to Bitcoin but with higher transaction speeds and lower fees thanks to Solana's infrastructure.
