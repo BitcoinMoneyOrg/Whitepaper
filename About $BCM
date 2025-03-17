@@ -1,22 +1,27 @@
-Token Name                 :  Bitcoin Money
-Symbol                     :  BCM
-Total Supply               :  21,000,000 BCM
-Decimals                   :  9 
-Token Type                 :  Utility / Payment Token
-Blockchain                 :  Solana 
-Token Address              :  xxxx
-Mint and Freeze Authority  :  Revoked
+Token Name          :  Bitcoin Classic (BCX)
+Token Standard   :  Token-2022 (SPL Token)
+Blockchain             :  Solana
 
 ✓ DESCRIPTION
-Bitcoin Money (BCM) is a Solana-based token designed to combine the advantages of Bitcoin—such as limited supply and decentralization—with the high transaction speeds and low fees offered by the Solana blockchain. BCM aims to be an efficient digital payment tool and a store of value within the DeFi (Decentralized Finance) ecosystem. With a maximum supply of 21 million tokens—inspired by Bitcoin—BCM offers high scalability for everyday transactions, making it a modern alternative for users seeking a combination of value stability and network performance.
+Bitcoin Classic is an open source peer-to-peer cryptocurrency, offering a fast, secure and low-cost cross-border transaction solution.
 
-✓ KEY FEATURES
-Transaction Speed  :  Leverages Solana for processing thousands of transactions per second.
-Low Fees           :  Minimal gas fees compared to other blockchains such as Ethereum.
-Interoperability   :  Compatible with SPL wallets (e.g. Phantom, Sollet) and can be integrated into DeFi applications on the Solana ecosystem.
-Limited Supply     :  Total supply is capped at 21 million BCM to maintain scarcity and potential long-term value.
+✓ MAIN FUNCTIONS
+Payments             :  BCX can be used for P2P (peer-to-peer) transactions within the Bitcoin Classic ecosystem, allowing users to transact without intermediaries.
+Service Access   :  The token provides access to various services within the ecosystem, including DeFi (Decentralized Finance) services like lending, staking, and yield farming.
 
-✓ USE CASE
-•  Cross-border peer-to-peer payments with low fees.
-•  Digital store of value as an alternative to Bitcoin on a faster network.
-•  Used in staking or liquidity pools on Solana-based DeFi platforms.
+✓ TECHNICAL SPECIFICATIONS
+Total Supply            :  21,000,000 BCX
+Decimals                  :  9
+Token Contract      :  BcCWK2bjPxGKtAexbEoeJBd6qWcfT5cX2Tib85C6BaLU
+Mint Authority        :  Revoked
+Freeze Authority    :  Revoked
+
+✓ TOKEN DISTRIBUTION
+Liquidity locked forever              :  95 %
+Bitcoin Classic Development   :     4 %
+Project Developer                         :     1 %
+
+✓ ADVANTAGES
+Transaction Speed   :  Utilizing Solana's network speed, BCX transactions can be processed in seconds.
+Low Fees                      :  Very low transaction fees make BCX ideal for microtransactions and daily use.
+Interoperability          :  Being based on SPL, BCX can be easily integrated with various applications and services on Solana.
