@@ -1,27 +1,28 @@
-Token Name     : Bitcoin Money (BCM)
-Token Standard : Token-2022 (SPL Token)
+Token Name     : Bitcoin Money
+Symbol         : BCM
+Token Standard : Token-2022
 Blockchain     : Solana
 
 ✓ DESCRIPTION
-Bitcoin Money is an open source peer-to-peer cryptocurrency, offering a fast, secure, and low-cost cross-border transaction solution.
+Bitcoin Money is an innovative token developed on the Solana Program Library (SPL), designed to harmonize the intrinsic value of Bitcoin as "digital gold" with the advanced technological capabilities of the Solana network. Built on one of the world’s most efficient blockchain platforms, BCM delivers exceptional transaction speeds, highly competitive operational costs, and robust scalability to facilitate broad adoption. Far exceeding the scope of a conventional cryptocurrency, BCM represents a forward-thinking paradigm of digital currency—functional, inclusive, and equipped to meet the demands of a future-oriented economy.
 
-✓ MAIN FUNCTIONS
-Payments       : BCM can be used for P2P (peer-to-peer) transactions within the Bitcoin Money ecosystem, allowing users to transact without intermediaries.
-Service Access : The token provides access to various services within the ecosystem, including DeFi (Decentralized Finance) services like lending, staking, and yield farming.
+✓ PRIMARY FUNCTIONS
+Payments       : BCM enables peer-to-peer (P2P) transactions within the Bitcoin Money ecosystem, allowing seamless and direct exchanges without third-party intermediaries.
+Service Access : The token provides users with access to an array of ecosystem services, including Decentralized Finance (DeFi) offerings such as lending, staking, and yield optimization.
 
 ✓ TECHNICAL SPECIFICATIONS
 Total Supply     : 21,000,000 BCM
 Decimals         : 9
-Token Contract   : Coming soon...
+Token Contract   : To be disclosed in the near future
 Mint Authority   : Revoked
 Freeze Authority : Revoked
 
 ✓ TOKEN DISTRIBUTION
-Liquidity locked forever  : 95 %
-Bitcoin Money Development :  4 %
-Project Developer         :  1 %
+Permanently Locked Liquidity : 95 %
+Bitcoin Money Development    :  4 %
+Project Developers           :  1 %
 
 ✓ ADVANTAGES
-Transaction Speed : Utilizing Solana's network speed, BCM transactions can be processed in seconds.
-Low Fees          : Very low transaction fees make BCM ideal for microtransactions and daily use.
-Interoperability  : Being based on SPL, BCM can be easily integrated with various applications and services on Solana.
+Transaction Efficiency : By harnessing the Solana network’s infrastructure, BCM ensures transactions are processed swiftly and with optimal efficiency.
+Cost Effectiveness     : Exceptionally low operational costs make BCM an ideal solution for microtransactions and everyday use.
+Interoperability       : Built on the SPL framework, BCM seamlessly integrates with a wide range of applications and services within the Solana ecosystem.
