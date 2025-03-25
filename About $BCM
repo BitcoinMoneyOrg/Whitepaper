@@ -6,8 +6,8 @@ Blockchain : Solana
 Bitcoin Money is an innovative token developed on the Solana Program Library (SPL), designed to harmonize the intrinsic value of Bitcoin as “digital gold” with the advanced technological capabilities of the Solana network. Built on one of the world’s most efficient blockchain platforms, BCM delivers exceptional transaction speeds, highly competitive operational costs, and robust scalability to facilitate broad adoption. Far exceeding the scope of a conventional cryptocurrency, BCM represents a forward-thinking paradigm of digital currency—functional, inclusive, and equipped to meet the demands of a future-oriented economy.
 
 ✓ TECHNICAL SPECIFICATIONS
-Total Supply           : 21,000,000 BCM
-Decimals               : 9
+Total Supply           : 21,000,000,000 BCM
+Decimals               : 6
 Token Contract Address : To be disclosed in the near future
 Mint Authority         : Revoked
 Freeze Authority       : Revoked
@@ -20,8 +20,3 @@ Service Access : The token provides users with access to an array of ecosystem s
 Transaction Efficiency : By harnessing the Solana network’s infrastructure, BCM ensures transactions are processed swiftly and with optimal efficiency.
 Cost Effectiveness     : Exceptionally low operational costs make BCM an ideal solution for microtransactions and everyday use.
 Interoperability       : Built on the SPL framework, BCM seamlessly integrates with a wide range of applications and services within the Solana ecosystem.
-
-✓ TOKEN DISTRIBUTION
-Permanently Locked Liquidity : 95 %
-Bitcoin Money Development    :  4 %
-Project Developers           :  1 %
