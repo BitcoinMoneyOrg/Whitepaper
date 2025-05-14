@@ -11,6 +11,7 @@ Decimals                : 9
 Token Contract Address  : BC9n3CcQfqYoswRPFJqDdPK7yHMNVv3qetaYGqCSb35V
 Mint Authority          : Revoked
 Freeze Authority        : Revoked
+Update Authority        : Revoked
 
 ✓ PRIMARY FUNCTIONS
 Payments        : BCM enables peer-to-peer (P2P) transactions within the Bitcoin Money ecosystem, allowing seamless and direct exchanges without third-party intermediaries.
